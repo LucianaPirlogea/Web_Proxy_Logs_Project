@@ -1,0 +1,7 @@
+update.googleapis.com
+www.bitdefender.ro
+cdnjs.cloudflare.com
+static.scarabresearch.com
+stackoverflow.com
+hustweb.com
+a.slack-edge.com

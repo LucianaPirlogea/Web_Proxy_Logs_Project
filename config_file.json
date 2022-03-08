@@ -1,0 +1,17 @@
+{
+    "top_domains_threshold": 2,
+    "content_type_threshold": 0.005,
+    "bi_higher_value_ratio": 10000000,
+    "bo_higher_value_ratio": 10000000,
+    "bo_higher_value_sum": 10000000,
+    "higher_value": 1000000,
+    "httpstatus_procent": 90,
+    "high_number": 500,
+    "frequency": 0.05,
+    "unsafe_methods": 0.5,
+    "url_query_multiplier": 10,
+    "beaconing_bound": 0.001,
+    "dga_bound": 20,
+    "whois_bound": 20,
+    "count_bi": 15
+}

@@ -1,0 +1,30 @@
+system32
+cmd.exe
+<script>
+update
+union
+.js
+' or 0=0 --
+" or 0=0 --
+or 0=0 --
+' or 0=0 #
+" or 0=0 #
+or 0=0 #
+' or 'x'='x
+" or "x"="x
+') or ('x'='x
+' or 1=1--
+" or 1=1--
+or 1=1--
+" or "a"="a
+') or ('a'='a
+") or ("a"="a
+" or "a"="a
+" or 1=1 --
+' or 1=1 --
+%2D%2D
+\%2D\%2D
+Vm0wd
+../
+/var
+/www/
